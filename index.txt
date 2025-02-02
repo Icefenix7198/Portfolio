@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Éric Segovia
+Éric Segovia
+Videogame Designer
 
 Show Contacts
 
 Email
-richard@example.com
+ericsb2003@gmail.com
 
 Phone
-+1 (213) 352-2795
++34 601 394 694
 
 Birthday
-June 23, 1982
+June 19, 2003
 
 Location
-Sacramento, California, USA
+Barcelona, Catalonia, Spain
 
 # navbar
 
